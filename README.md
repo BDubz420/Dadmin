@@ -162,14 +162,6 @@ lua/dadmin/ui/
 lua/dadmin/net/
 ```
 
-Some included planning/review notes are useful if you want to continue development:
-
-```text
-DADMIN_REVIEW_NOTES.md
-DADMIN_PHASED_COMPLETION_ROADMAP.md
-FEATURE_STATUS.md
-DADMIN_COMPLETE_INTEGRATION.txt
-```
 
 ## Things To Finish
 
